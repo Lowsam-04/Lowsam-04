@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web application project
-- 📫 Reach me at Facebook (lowxuan99@gmail.com)
+- 📫 Reach me at lowxuan99@gmail.com
 
 <!---
 lowsam04/lowsam04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
